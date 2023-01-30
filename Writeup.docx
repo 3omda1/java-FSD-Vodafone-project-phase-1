@@ -1,0 +1,22 @@
+Link for GitHub repository ---> https://github.com/3omda1/java-FSD-Vodafone-project-phase-1
+
+Sprint 1 descriptions with period of 5 days:
+Planned user interface
+created the welcoming and menu classes
+created the switch statement with all of its validations  
+
+Sprint 2 descriptions with period of 10 days:
+created case one to ask the user for his desired directory, navigate to it, and then list all files and folders inside it in ascending order
+created case two for creating files and taking its names from the user
+created case three to delete a specific files based on user input
+created searching algorithm to search about a specific file in the current working directory
+
+How to run the program?:
+Make sure you have java installed in your operating system
+1 - Open the terminal inside java-FSD-Vodafone-project-phase-1 folder
+2 - javac Main.java ---> to compile the source code
+3 - Java Main       ---> to run the application
+
+
+
+
